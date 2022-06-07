@@ -1,2 +1,3 @@
-# loginForm-with-Redux-and-TS
-How to create loginFom using React, Redux, Typescript
+# Create Login Form
+
+### React / TS / TailwindCSS / React Hook Form
